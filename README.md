@@ -1,4 +1,4 @@
-# Blog_lsaucedo-Blog_Frameworks1
+# Blog_LourSanz-Blog_Frameworks1
 Proyecto evaluación final Blog_Frameworks 
 Evaluación Final
 El término Blog hace referencia a “bitácora o diario” y es, básicamente, una web en la que se publica información relacionada con un tema específico, escrita de manera informal, actualizada frecuentemente y que está estructurada de manera cronológica. Además es un espacio para que el autor de los contenidos propicie una conversación con los visitantes, a través de comentarios.
